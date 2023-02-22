@@ -1,0 +1,27 @@
+{
+  "name": "amaliyot_6_belissiomo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fakhriddin01/pizza_telegram_bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fakhriddin01/pizza_telegram_bot/issues"
+  },
+  "homepage": "https://github.com/fakhriddin01/pizza_telegram_bot#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20",
+    "telegraf": "^4.11.2",
+    "uuid": "^9.0.0"
+  }
+}
