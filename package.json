@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/fakhriddin01/pizza_telegram_bot#readme",
   "dependencies": {
-    "@telegraf/session": "^1.0.1",
     "dotenv": "^16.0.3",
     "nodemailer": "^6.9.1",
     "nodemon": "^2.0.20",
